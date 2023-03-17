@@ -1,0 +1,52 @@
+body{
+    max-width:1440px ;
+    width: 200px;
+    padding: 100px;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-color:  hsl(212, 45%, 89%);
+    border-radius: 1rem;
+   
+}
+.pic{
+    border-radius: 1rem;
+    width: 200px;
+    margin: 3px;
+    
+}
+.two{
+    font-family: 'Outfit', sans-serif;
+    font-size: 10px;
+    text-align: center;
+    padding: 10px auto;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 10px;
+    /* text-transform: capitalize; */
+    
+    
+}
+.one{
+    font-family:  'Outfit', sans-serif ;
+    text-align: center;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 15px;
+    margin: 12px;
+    padding: 10px auto;
+    
+}
+.main{
+    border:5px solid #ffffff;
+    border-radius: 1rem;
+    background-color: #ffffff;
+    border-bottom-width:18px ;
+}
+
+
+/* - White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%) */
